@@ -45,3 +45,5 @@
         Esta nueva funcionalidad puede incluir, como por ejemplo: desarrollo de interfaz gráfica, consumo de
         una api externa, búsquedas avanzadas, nuevas funcionalidades similares a las anteriores que aporten
         valor agregado, etc
+
+Presentación: https://youtu.be/IS2AdTxFckI
