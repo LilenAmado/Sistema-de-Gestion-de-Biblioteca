@@ -1,5 +1,5 @@
-# Sistema-de-Gestion-de-Biblioteca
-########################### Sistema de Gestión de Bibliotecas ###########################
+# Sistema de Gestión de Biblioteca
+
 
     Objetivo: Desarrollar una solución de software para gestionar el préstamo y devolución de libros en una
     biblioteca.
