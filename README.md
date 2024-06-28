@@ -1,5 +1,6 @@
 # Sistema de Gestión de Biblioteca
 
+Trabajo final realizado para Programación I - UNER
 
     Objetivo: Desarrollar una solución de software para gestionar el préstamo y devolución de libros en una
     biblioteca.
