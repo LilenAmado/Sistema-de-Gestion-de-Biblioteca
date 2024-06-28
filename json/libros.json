@@ -1,0 +1,38 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "Cien A\u00c3\u00b1os de Soledad",
+        "autor": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+        "editorial": "Sudamericana",
+        "a\u00c3\u00b1o_publicacion": 1967,
+        "genero": "Novela",
+        "cantidad_disponible": 3
+    },
+    {
+        "id_libro": 2,
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "editorial": "Francisco de Robles",
+        "a\u00c3\u00b1o_publicacion": 1605,
+        "genero": "Novela",
+        "cantidad_disponible": 2
+    },
+    {
+        "id_libro": 3,
+        "titulo": "Almas en pena",
+        "autor": "Karen B. Pigni",
+        "editorial": "Amazon Book",
+        "a\u00f1o_publicacion": "2018",
+        "genero": "Novela",
+        "cantidad_disponible": "50"
+    },
+    {
+        "id_libro": 4,
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exup\u00e9ry",
+        "editorial": "Emec\u00e9 Editores",
+        "a\u00f1o_publicacion": "1943",
+        "genero": "Novela",
+        "cantidad_disponible": "6"
+    }
+]
